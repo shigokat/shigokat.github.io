@@ -1,2 +1,2 @@
 # shigokat.github.io
-Curriculo do Jornada Dec
+Curriculo do Jornada Dev
